@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="action_settings">Settings</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calc">Calc</string>
+    <string name="result">Result:</string>
+    <string name="reset">Reset</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_result__bmi">Result_BMI</string>
+</resources>
